@@ -1,0 +1,104 @@
+{
+  "name": "AAA Auto Glass",
+  "description": "Auckland's trusted auto glass specialist since 1989. Mobile windscreen replacement, ADAS windscreens, side/rear glass, and sunroof replacement across Greater Auckland. 36+ insurance partners with direct billing.",
+  "version": "1.0.0",
+  "base_url": "https://aaaautoglass.co.nz",
+  "contact": {
+    "phone": "0800 757-985",
+    "email": "tiptopautonz@hotmail.com",
+    "address": "133 Pilkington Road, Panmure, Auckland 1072",
+    "hours": "7am – 11pm, 7 days a week",
+    "whatsapp": "+64 21 757 985"
+  },
+  "services": [
+    {
+      "name": "Windscreen Replacement",
+      "url": "https://aaaautoglass.co.nz/services/windscreen-replacement.html",
+      "description": "Full windscreen replacement for all makes and models, including ADAS-equipped vehicles with cameras and sensors."
+    },
+    {
+      "name": "ADAS Windscreen Replacement",
+      "url": "https://aaaautoglass.co.nz/services/adas-windscreen.html",
+      "description": "Specialist fitting for vehicles with ADAS cameras, rain sensors, HUD, and heated windscreens."
+    },
+    {
+      "name": "Side & Rear Glass",
+      "url": "https://aaaautoglass.co.nz/services/side-rear-glass.html",
+      "description": "Door windows, quarter glass, rear windscreens, and tailgate glass for cars, utes, and vans."
+    },
+    {
+      "name": "Sunroof & Roof Glass",
+      "url": "https://aaaautoglass.co.nz/services/sunroof-roof-glass.html",
+      "description": "Standard sunroof panels and full panoramic roof systems including Tesla roof glass."
+    },
+    {
+      "name": "Chip & Crack Repair",
+      "url": "https://aaaautoglass.co.nz/services/windscreen-repair.html",
+      "description": "Resin injection repair for chips and small cracks. Often free under insurance with no excess."
+    }
+  ],
+  "locations": [
+    {
+      "name": "North Shore",
+      "url": "https://aaaautoglass.co.nz/locations/north-shore.html"
+    },
+    {
+      "name": "East Auckland",
+      "url": "https://aaaautoglass.co.nz/locations/east-auckland.html"
+    },
+    {
+      "name": "South Auckland",
+      "url": "https://aaaautoglass.co.nz/locations/south-auckland.html"
+    },
+    {
+      "name": "West Auckland",
+      "url": "https://aaaautoglass.co.nz/locations/west-auckland.html"
+    },
+    {
+      "name": "Central Auckland",
+      "url": "https://aaaautoglass.co.nz/locations/central-auckland.html"
+    },
+    {
+      "name": "Rodney & Hibiscus Coast",
+      "url": "https://aaaautoglass.co.nz/locations/rodney.html"
+    }
+  ],
+  "specialist_makes": [
+    {
+      "name": "Tesla",
+      "url": "https://aaaautoglass.co.nz/makes/tesla.html",
+      "models": ["Model 3", "Model Y"]
+    },
+    {
+      "name": "Range Rover",
+      "url": "https://aaaautoglass.co.nz/makes/range-rover.html",
+      "models": ["All models"]
+    }
+  ],
+  "insurance_providers": 36,
+  "insurance_url": "https://aaaautoglass.co.nz/insurance/index.html",
+  "pricing": {
+    "insured": "Typically nil excess. Excess if applicable: $100-$500",
+    "standard_private": "$650-$850",
+    "adas_european_private": "$800-$1,500+",
+    "chip_repair_private": "$80-$150"
+  },
+  "schema": {
+    "type": "AutoRepair",
+    "localbusiness_url": "https://aaaautoglass.co.nz/",
+    "rating": "4.5",
+    "review_count": 46
+  },
+  "blog_posts": [
+    {"title": "Windscreen Replacement Cost in Auckland", "url": "https://aaaautoglass.co.nz/blog/windscreen-replacement-cost-auckland.html", "category": "Pricing"},
+    {"title": "Tesla Windscreen Replacement Auckland", "url": "https://aaaautoglass.co.nz/blog/tesla-windscreen-replacement-auckland.html", "category": "Vehicle Specialist"},
+    {"title": "Range Rover Windscreen Replacement Auckland", "url": "https://aaaautoglass.co.nz/blog/range-rover-windscreen-replacement-auckland.html", "category": "Vehicle Specialist"},
+    {"title": "How Long After Windscreen Replacement Can You Drive", "url": "https://aaaautoglass.co.nz/blog/how-long-after-windscreen-replacement-can-you-drive.html", "category": "FAQ"},
+    {"title": "Chip Repair vs Replacement Auckland", "url": "https://aaaautoglass.co.nz/blog/chip-repair-vs-replacement-auckland.html", "category": "Guide"},
+    {"title": "What Is ADAS Windscreen Replacement", "url": "https://aaaautoglass.co.nz/blog/what-is-adas-windscreen.html", "category": "Guide"},
+    {"title": "Same-Day Windscreen Replacement Auckland", "url": "https://aaaautoglass.co.nz/blog/same-day-windscreen-replacement-auckland.html", "category": "Service"},
+    {"title": "How to File a Windscreen Insurance Claim in NZ", "url": "https://aaaautoglass.co.nz/blog/how-to-file-windscreen-insurance-claim-nz.html", "category": "Insurance"}
+  ],
+  "sitemap": "https://aaaautoglass.co.nz/sitemap.xml",
+  "llms_txt": "https://aaaautoglass.co.nz/llms.txt"
+}
